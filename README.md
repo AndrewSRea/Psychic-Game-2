@@ -1,4 +1,7 @@
 # Psychic-Game-2
+
+https://andrewsrea.github.io/Psychic-Game-2/
+
 A game which randomly picks a letter, and has the user guess which letter the game has chosen.
 
 Rules:
